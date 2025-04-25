@@ -5,4 +5,4 @@
 - *Hosting:* GitHub Pages
 
 ## Live Demo
-Access the deployed application here: [Landing Page](https://koushikreddybachu.github.io/Food-Munch-Landing-page)
+Access the deployed application here: [Landing Page](https://github.com/akshitha61/Food-munch/blob/main/index.html)
